@@ -11,6 +11,8 @@ Este es un proyecto de un editor de texto simple creado utilizando Tkinter en Py
 
 ## Capturas de Pantalla
 
+![Menu Archivo](img/Archivo.png)
+![Menu Herramientas](img/Toolbar.png)
 
 
 ## Instalación
@@ -33,8 +35,8 @@ Alternativamente puedes descargar el editor de texto desde este link:
 
 Para ejecutar la aplicación, simplemente ejecuta el script `editor.py`:
 ```sh
-python editor.py
-
+python BlocDeNotas_v2.py
+```
 
 ## Proyecto Previo
 Antes de este proyecto de editor de texto con GUI, desarrollé un proyecto similar en la línea de comandos (CLI). Puedes encontrar más detalles sobre este proyecto anterior en mi repositorio de GitHub:
