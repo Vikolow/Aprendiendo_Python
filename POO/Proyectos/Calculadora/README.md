@@ -32,7 +32,7 @@ Este proyecto es una calculadora simple implementada en Python usando programaci
 Para ejecutar la calculadora, simplemente corre el archivo `calculadora_tk.py`:
 
 ```bash
-python calculadora.py
+python calculadora_tk.py
 ```
 
 ## Uso
