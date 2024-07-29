@@ -19,7 +19,7 @@ Este es un proyecto de un editor de texto simple creado utilizando Tkinter en Py
 
 1. Clona este repositorio en tu máquina local:
     ```sh
-    git clone https://github.com/Vikolow/Aprendiendo_Python/blob/main/POO/Proyectos/BlocDeNotas/BlocDeNotas_v2.py
+      git clone https://github.com/Vikolow/Aprendiendo_Python.git
     ```
 2. Navega hasta el directorio del proyecto:
     ```sh
