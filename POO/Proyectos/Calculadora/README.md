@@ -1,6 +1,6 @@
 # Calculadora en Python con Tkinter
 
-Este proyecto es una calculadora simple implementada en Python usando programación orientada a objetos (POO) y la biblioteca Tkinter para la interfaz gráfica de usuario (GUI). La calculadora puede realizar operaciones básicas como suma, resta, multiplicación y división,.
+Este proyecto es una calculadora simple implementada en Python usando programación orientada a objetos y la biblioteca Tkinter para la interfaz gráfica de usuario (GUI). La calculadora puede realizar operaciones básicas como suma, resta, multiplicación y división.
 
 ## Características
 
@@ -24,12 +24,11 @@ Este proyecto es una calculadora simple implementada en Python usando programaci
     cd Aprendiendo_Python/POO/Proyectos/Calculadora
     ```
 
-3. **Instalar las dependencias**:
     No se requieren dependencias adicionales más allá de Python 3.x y Tkinter, que generalmente viene incluido con Python.
 
 ## Ejecución
 
-Para ejecutar la calculadora, simplemente corre el archivo `calculadora_tk.py`:
+Para ejecutar la calculadora, ejecutar el archivo `calculadora_tk.py`:
 
 ```bash
 python calculadora_tk.py
